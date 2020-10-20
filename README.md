@@ -1,15 +1,20 @@
-# [Now UI Dashboard](https://demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Now%20UI%20Dashboard%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html%20%40CreativeTim%20%23html%20%23dashboard%20%23nowuidesign%20%40creativetim)
+# [Now UI Dashboard](https://appseed.us/ui-kit/now-ui-design)
 
-
-![version](https://img.shields.io/badge/version-1.5.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/now-ui-dashboard.svg)](https://github.com/creativetimofficial/now-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/now-ui-dashboard.svg?maxAge=259200)](https://github.com/creativetimofficial/now-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
-
-![Product Gif](assets/img/now-ui-dashboard.gif)
-
-**[Now UI Dashboard](https://demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html)** is a responsive Bootstrap 4 kit provided for free by [Invision](https://www.invisionapp.com/) and [Creative Tim](https://www.creative-tim.com/). It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Now UI Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
-
+**Now UI Dashboard** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Now UI Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 Now UI Dashboard has the same design characteristics as Now UI Kit, so it is quite convenient to use them together. Or you can choose between them depending on the project at hand. If you love Now UI Kit, you'll love Now UI Dashboard.
 Create awesome, lifelike prototypes with InVision and Now so your users can experience and give feedback on your vision!
 
+<br />
+
+> Links
+
+- [Now UI Dashboard](https://www.creative-tim.com/product/now-ui-dashboard) - product page
+- [Now UI Dashboard - Flask](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Seed project provided by AppSeed
+- [Now UI Dashboard - Django](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Seed project provided by AppSeed
+
+<br />
+
+![Bootstrap Template - Now UI Dashboard, open-source dashboard animated presentation.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-now-ui/main/media/bootstrap-template-now-ui-intro.gif)
 
 **Bootstrap 4 Support**
 Now UI Dashboard is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Now UI Dashboard style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
@@ -180,3 +185,8 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+
+<br />
+
+---
+[Now UI Dashboard](https://appseed.us/ui-kit/now-ui-design) - crafted by Creative-Tim
