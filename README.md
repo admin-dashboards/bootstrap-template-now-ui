@@ -1,7 +1,8 @@
 # [Now UI Dashboard](https://appseed.us/ui-kit/now-ui-design)
 
 **Now UI Dashboard** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Now UI Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
-Now UI Dashboard has the same design characteristics as Now UI Kit, so it is quite convenient to use them together. Or you can choose between them depending on the project at hand. If you love Now UI Kit, you'll love Now UI Dashboard.
+
+**Now UI Dashboard** has the same design characteristics as Now UI Kit, so it is quite convenient to use them together. Or you can choose between them depending on the project at hand. If you love Now UI Kit, you'll love Now UI Dashboard.
 Create awesome, lifelike prototypes with InVision and Now so your users can experience and give feedback on your vision!
 
 <br />
